@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+
+
+*{
+    color:white;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #333131;
+}
+
+#tasklist {
+    scrollbar-width: none; /* Firefox */
+    -ms-overflow-style: none; /* IE 10+ */
+}
+
+/* #tasklist::-webkit-scrollbar{
+    display: none;
+} */
